@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="350mm"
+   height="210mm"
+   viewBox="0 0 350 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="NeuroNet1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64"
+     inkscape:cx="676.5625"
+     inkscape:cy="566.40625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient11956">
+      <stop
+         style="stop-color:#ff9686;stop-opacity:1;"
+         offset="0"
+         id="stop11952" />
+      <stop
+         style="stop-color:#ff9686;stop-opacity:0;"
+         offset="1"
+         id="stop11954" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="marker11108"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path10868" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path90431" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path90410" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path90413" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient52840">
+      <stop
+         style="stop-color:#21f75a;stop-opacity:1;"
+         offset="0"
+         id="stop52836" />
+      <stop
+         style="stop-color:#21f75a;stop-opacity:0;"
+         offset="1"
+         id="stop52838" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6274"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop6272" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient52840"
+       id="linearGradient53312"
+       x1="24.006157"
+       y1="87.966141"
+       x2="175.70074"
+       y2="87.966141"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2.1945813,-12.801724)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient52840"
+       id="linearGradient53458"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2.1945813,-12.801724)"
+       x1="24.006157"
+       y1="87.966141"
+       x2="175.70074"
+       y2="87.966141" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path90431-8" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11956"
+       id="linearGradient11958"
+       x1="25.759216"
+       y1="136.97845"
+       x2="177.4538"
+       y2="136.97845"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient52840"
+       id="linearGradient12353"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(174.35546,39.319572)"
+       x1="24.006157"
+       y1="87.966141"
+       x2="175.70074"
+       y2="87.966141" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11956"
+       id="linearGradient59965"
+       gradientUnits="userSpaceOnUse"
+       x1="25.759216"
+       y1="136.97845"
+       x2="177.4538"
+       y2="136.97845"
+       gradientTransform="matrix(0.99937093,0,0,1.1993351,7.4718038,-51.147007)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11956"
+       id="linearGradient59967"
+       gradientUnits="userSpaceOnUse"
+       x1="25.759216"
+       y1="136.97845"
+       x2="177.4538"
+       y2="136.97845" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-9-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path90431-8-8" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11956"
+       id="linearGradient74099"
+       gradientUnits="userSpaceOnUse"
+       x1="25.759216"
+       y1="136.97845"
+       x2="177.4538"
+       y2="136.97845" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11956"
+       id="linearGradient105369"
+       gradientUnits="userSpaceOnUse"
+       x1="25.759216"
+       y1="136.97845"
+       x2="177.4538"
+       y2="136.97845" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.215494;stroke-miterlimit:3"
+       id="rect912"
+       width="349.78452"
+       height="209.7845"
+       x="0.20362534"
+       y="0.15925077" />
+    <g
+       id="g112196"
+       transform="translate(-9.6342763,-11.079994)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.316328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-9-3)"
+         d="m 274.31737,143.77957 v 31.41526"
+         id="path90852-8-7" />
+      <ellipse
+         style="fill:#ffd900;fill-opacity:1;stroke:#000000;stroke-width:0.523676;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path99470-3-8"
+         cx="274.20892"
+         cy="158.00984"
+         rx="53.684013"
+         ry="8.4230795" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="232.40372"
+         y="159.78337"
+         id="text92726-5-1"><tspan
+           sodipodi:role="line"
+           id="tspan92724-1-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';stroke-width:0.264583"
+           x="232.40372"
+           y="159.78337">hidden_layer_local_opt_2</tspan></text>
+      <g
+         id="g10667-8"
+         style="fill:url(#linearGradient59967);fill-opacity:1"
+         transform="translate(172.60241,55.44624)">
+        <g
+           id="g105367"
+           style="fill:url(#linearGradient105369)">
+          <rect
+             style="fill:url(#linearGradient59965);fill-opacity:1;stroke:#000000;stroke-width:1.0948;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0"
+             id="rect52834-0-9-4"
+             width="150.59978"
+             height="39.041901"
+             x="26.306614"
+             y="120.74937" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="101.64784"
+             y="127.82526"
+             id="text116101-8"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.64784"
+               y="127.82526"
+               id="tspan141595-6">Обучение нейронной сети при </tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.64784"
+               y="134.88081"
+               id="tspan189979-8">alpha_local_opt, количестве нейронов первого</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.64784"
+               y="141.93636"
+               id="tspan170853-1">скрытого слоя, равного hidden_layer_local_opt_1,</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.64784"
+               y="148.99191"
+               id="tspan79733">и количестве нейронов второго скрытого слоя,</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.64784"
+               y="156.04745"
+               id="tspan79735">равного hidden_layer_local_opt_2 </tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.64784"
+               y="163.10301"
+               id="tspan184761-9" /><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.64784"
+               y="170.15855"
+               id="tspan164353-5" /><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.64784"
+               y="177.21411"
+               id="tspan116105-8" /></text>
+        </g>
+      </g>
+      <rect
+         style="fill:url(#linearGradient12353);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect52834-0-8"
+         width="150.69458"
+         height="32.552956"
+         x="198.86159"
+         y="111.00923" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.168059"
+         x="275.07782"
+         y="118.36843"
+         id="text14084-4-7"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;stroke-width:0.168059"
+           x="275.07782"
+           y="118.36843"
+           id="tspan19908">Подбор количества нейронов для второго </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;stroke-width:0.168059"
+           x="275.07782"
+           y="125.42398"
+           id="tspan21746">скрытого слоя, при количестве нейронов первого </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;stroke-width:0.168059"
+           x="275.07782"
+           y="132.47954"
+           id="tspan21748">скрытого слоя, равного hidden_layer_local_opt_1, </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;stroke-width:0.168059"
+           x="275.07782"
+           y="139.53508"
+           id="tspan78496-1">и параметре alpha, равного alpha_local_opt</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;stroke-width:0.168059"
+           x="275.07782"
+           y="146.59064"
+           id="tspan16462-6-1" /></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.451577;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-9)"
+         d="m 94.585652,114.10946 v 64.02175"
+         id="path90852-8" />
+      <ellipse
+         style="fill:#ffd900;fill-opacity:1;stroke:#000000;stroke-width:0.523676;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path99470-3"
+         cx="94.635475"
+         cy="127.28571"
+         rx="53.684013"
+         ry="8.4230795" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="56.795925"
+         y="129.05925"
+         id="text92726-5"><tspan
+           sodipodi:role="line"
+           id="tspan92724-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';stroke-width:0.264583"
+           x="56.795925"
+           y="129.05925">hidden_layer_local_opt_1</tspan></text>
+      <g
+         id="g53403"
+         transform="translate(-7.4125494,-39.372493)">
+        <rect
+           style="opacity:1;fill:url(#linearGradient53312);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect52834"
+           width="150.69458"
+           height="32.552956"
+           x="26.700739"
+           y="58.887936" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.72234px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.168059"
+           x="101.91837"
+           y="72.855247"
+           id="text14084"><tspan
+             sodipodi:role="line"
+             id="tspan14082"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;stroke-width:0.168059"
+             x="101.91837"
+             y="72.855247">Подбор параметра alpha</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;stroke-width:0.168059"
+             x="101.91837"
+             y="81.258171"
+             id="tspan38462">для одного скрытого слоя из 50 нейронов</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;stroke-width:0.168059"
+             x="101.91837"
+             y="89.661095"
+             id="tspan16462" /></text>
+      </g>
+      <g
+         id="g53403-8"
+         transform="translate(-7.4125494,22.624424)">
+        <rect
+           style="opacity:1;fill:url(#linearGradient53458);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect52834-0"
+           width="150.69458"
+           height="32.552956"
+           x="26.700739"
+           y="58.887936" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.72234px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.168059"
+           x="101.84287"
+           y="68.745697"
+           id="text14084-4"><tspan
+             sodipodi:role="line"
+             id="tspan14082-7"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;stroke-width:0.168059"
+             x="101.84287"
+             y="68.745697">Подбор количества нейронов</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;stroke-width:0.168059"
+             x="101.84287"
+             y="77.148621"
+             id="tspan38462-6">для одного скрытого слоя </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;stroke-width:0.168059"
+             x="101.84287"
+             y="85.551544"
+             id="tspan78496">при alpha_local_opt</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;stroke-width:0.168059"
+             x="101.84287"
+             y="93.954475"
+             id="tspan16462-6" /></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+           d="M 102.04274,29.849107 V 58.104858"
+           id="path90852" />
+        <g
+           id="g10667"
+           style="fill:url(#linearGradient11958);fill-opacity:1"
+           transform="translate(0,36.113679)">
+          <rect
+             style="fill:url(#linearGradient74099);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0"
+             id="rect52834-0-9"
+             width="150.69458"
+             height="32.552956"
+             x="18.846666"
+             y="143.3264"
+             transform="translate(7.4125494,-22.624424)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="101.7071"
+             y="128.06117"
+             id="text116101"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.7071"
+               y="128.06117"
+               id="tspan141595">Обучение нейронной сети при </tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.7071"
+               y="135.11673"
+               id="tspan189979">alpha_local_opt и количестве нейронов одного</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.7071"
+               y="142.17227"
+               id="tspan170853">скрытого слоя, равного hidden_layer_local_opt_1 </tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.7071"
+               y="149.22783"
+               id="tspan184761">(оптимального для alpha_local_opt)</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.7071"
+               y="156.28337"
+               id="tspan164353" /><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="101.7071"
+               y="163.33893"
+               id="tspan116105" /></text>
+        </g>
+      </g>
+      <ellipse
+         style="fill:#ffd900;fill-opacity:1;stroke:#000000;stroke-width:0.429211;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path99470"
+         cx="94.635475"
+         cy="64.500008"
+         rx="40.152966"
+         ry="7.565094" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="69.010681"
+         y="66.273544"
+         id="text92726"><tspan
+           sodipodi:role="line"
+           id="tspan92724"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';stroke-width:0.264583"
+           x="69.010681"
+           y="66.273544">alpha_local_opt</tspan></text>
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11108)"
+         d="m 148.33659,126.18842 c 49.74384,0 49.74384,0 49.74384,0"
+         id="path10765" />
+    </g>
+  </g>
+</svg>
